@@ -3,7 +3,7 @@
 Field notes and quick-reference tables for thin film thickness measurement and
 PV module testing, maintained by the engineers at **Suzhou TDM Technology Co., Ltd.**
 
-> These notes are the "cheat sheet" companion to our [full measurement guides](https://www.tdm-tek.com/news/guide) —
+> These notes are the "cheat sheet" companion to our [full measurement guides](https://www.tdm-tek.com/news/) —
 > for step-by-step procedures, see the guides on our website.
 
 ## Common Film Stacks & Suggested Methods
@@ -30,17 +30,17 @@ PV module testing, maintained by the engineers at **Suzhou TDM Technology Co., L
 
 | Standard | Scope | Related guide |
 |---|---|---|
-| IEC 61215 | PV module design qualification & type approval | [IEC testing guide](https://www.tdm-tek.com/news/guide) |
-| IEC 61730 | PV module safety qualification | [IEC testing guide](https://www.tdm-tek.com/news/guide) |
-| EL / PL imaging | Defect detection (cracks, micro-cracks, shunts) | [EL vs PL guide](https://www.tdm-tek.com/news/guide) |
-| IV curve | Electrical performance characterization | [IV curve guide](https://www.tdm-tek.com/news/guide) |
+| IEC 61215 | PV module design qualification & type approval | [IEC testing guide](https://www.tdm-tek.com/news/guide/iec-61215-testing) |
+| IEC 61730 | PV module safety qualification | [IEC testing guide](https://www.tdm-tek.com/news/guide/iec-61730-testing) |
+| EL / PL imaging | Defect detection (cracks, micro-cracks, shunts) | [EL vs PL guide](https://www.tdm-tek.com/news/guide/el-vs-pl-inspection) |
+| IV curve | Electrical performance characterization | [IV curve guide](https://www.tdm-tek.com/news/guide/iv-curve-testing-guide) |
 
 ## FAQ
 
 **Q: Can you measure film thickness on textured silicon?**
 A: Yes — but the texture depolarizes light, so standard ellipsometry models fail.
 Use a textured-substrate measurement method. See our
-[thin film measurement guides](https://www.tdm-tek.com/news/guide) for the approach.
+[thin film measurement guides](https://www.tdm-tek.com/news) for the approach.
 
 **Q: What is the difference between in-situ and inline measurement?**
 A: In-situ monitors the film *during* coating (at the coating head, wet film).
@@ -53,7 +53,7 @@ the practical choice.
 
 ## More Resources
 
-- Full guides: [Measurement Guides & Application Notes](https://www.tdm-tek.com/news/guide)
+- Full guides: [Measurement Guides & Application Notes](https://www.tdm-tek.com/news/)
 - In-situ solutions: [In-situ Metrology](https://www.tdm-tek.com/solutions/in-situ-metrology)
 - PV testing: [Electroluminescence Testing](https://www.tdm-tek.com/solutions/pv-electroluminescence-testing)
 - Products: [tdm-tek.com/products](https://www.tdm-tek.com/products)
