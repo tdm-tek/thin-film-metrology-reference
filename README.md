@@ -15,6 +15,7 @@ PV module testing, maintained by the engineers at **Suzhou TDM Technology Co., L
 | Wet coating (roll-to-roll) | Functional inks | **In-situ wet-film monitoring** | Measure from coating head, before drying |
 | Passivation layer | AlOₓ, SiO₂ | Ellipsometry | Sub-nm precision required |
 | Encapsulant | EVA / POE | Reflectometry | Thick film, low precision needed |
+| Perovskite absorber (slot-die or evaporation) | Perovskite (wet & dried) | **In-situ wet-film (SE31 / SE310) + inline thickness/PL/T&R (SE600X)** | Wet film ≤5 μm; catches edge-thickening before drying |
 
 ## Technique Cheat Sheet
 
@@ -57,6 +58,7 @@ the practical choice.
 - In-situ solutions: [In-situ Metrology](https://www.tdm-tek.com/solutions/in-situ-metrology)
 - PV testing: [Electroluminescence Testing](https://www.tdm-tek.com/solutions/pv-electroluminescence-testing)
 - Products: [tdm-tek.com/products](https://www.tdm-tek.com/products)
+- Solar process control: [Real-Time Metrology for Perovskite Lines](guides/solar-manufacturing-real-time-process-control.md)
 
 ---
 
